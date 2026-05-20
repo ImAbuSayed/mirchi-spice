@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/mirchi-spice/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Mirchi Spice](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mirchi-spice/) |
+| **Get License** | [Get a Licensing Quote for Mirchi Spice](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mirchi-spice/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Kaali raat di thand ch sekda haan fire
+> Nain tere padhda haan tu meri desire
+> Dhundli jehi roshni ch karda haan chase
+> Tere pichhe kalla phirda haan filling the space
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
