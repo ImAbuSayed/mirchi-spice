@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mirchi Spice
+
+This log tracks the cryptographic history and versioning for the song **Mirchi Spice** (mirchi-spice).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-21T03:36:06.062737 | `v1` | `4844c55770bfe128d0ab867d6977127781bc24895571aee3162389e190639725` | `d938b64d4ba99236fd75f142ee6ded1012e193a36778fe984cbf76de297fb976` | `2026-05-21_mirchi-spice-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
